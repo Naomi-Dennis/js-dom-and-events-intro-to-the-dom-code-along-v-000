@@ -185,7 +185,7 @@ This is the _DOM tree_!
 When you're ready to leave this lab, run `learn` from the command line. If the
 test pass, enter `learn submit`. You'll then be prompted to move on.
 
-#s# Conclusion
+## Conclusion
 
 We reviewed DOM nodes and their HTML sources, and we reviewed how the DOM is
 structured. We also looked at block and inline elements and their behaviors.
@@ -193,3 +193,5 @@ Finally, we practiced working directly with the DOM.
 
 [html-block-elements]: https://developer.mozilla.org/en/docs/Web/HTML/Block-level_elements
 [html-inline-elements]: https://developer.mozilla.org/en-US/docs/Web/HTML/Inline_elements
+
+# Completed 9/28/2018 by Naomi Dennis
